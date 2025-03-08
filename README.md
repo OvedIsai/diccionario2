@@ -1,5 +1,4 @@
 # diccionario2
-diccionario
 import discord
 from discord.ext import commands
 
